@@ -1,2 +1,4 @@
 As a necrophobic person, I want to see no images of human remains in the image recommendations when you Google a topic 
 or in the first 26 rows of images when you scroll down Google images, so I can predict where to stop looking. 
+
+As a user, I do not need offline capabilities, but I wish that the result will show up within 10 seconds.
