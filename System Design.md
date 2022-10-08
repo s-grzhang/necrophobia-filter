@@ -21,7 +21,7 @@ call the AI and send the images from Google Search to be classified by the AI. T
 
 ### Forward Query to Google Search Module 
 
-TBD
+googlesearch-python. Next step is to stop Google from responding with error message.
 
 ### AI Module 
 
