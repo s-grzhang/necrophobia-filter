@@ -1,0 +1,15 @@
+{
+    "name": "Necrophobia Filter",
+    "version": "1.0",
+    "description": "Funnel out necrophobia-triggering images.",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "icons": {
+      "16": "icons/logo_16x16.ico",
+      "48": "icons/logo_48x48.png",
+      "128": "icons/logo_128x128.jpg"
+    },
+    "manifest_version": 2
+  }
