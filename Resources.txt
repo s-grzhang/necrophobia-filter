@@ -1,0 +1,5 @@
+scrape images: https://serpapi.com/blog/scrape-google-images-with-python/
+scrape images: https://medium.com/@wwwanandsuresh/web-scraping-images-from-google-9084545808a2
+CNN from custom dataset: https://www.analyticsvidhya.com/blog/2021/12/cnn-model-covid-19/
+Bypassing google: https://www.zenrows.com/blog/selenium-python-web-scraping#add-real-headers
+SerpAPI: https://serpapi.com/google-images-api
